@@ -1,7 +1,10 @@
-Changes for 1.2.4 (not yet released) 
-====================================
-- fixed support for the excludeObjects/includeObjects options with thanks to
-  @manuelsanchezortiz (Issue 23).
+Changes for 1.3.1
+=================
+- Update the plugin from upstream
+
+Changes for 1.3.0
+=================
+- Added support for Liquibase 3.5.2
   
 Changes for 1.2.3
 =================

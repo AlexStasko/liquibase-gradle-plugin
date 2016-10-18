@@ -15,7 +15,7 @@
  *
  */
 
-package org.liquibase.gradle
+package com.alexstasko.gradle
 
 /**
  * This class represents a single activity that must be performed as part of a

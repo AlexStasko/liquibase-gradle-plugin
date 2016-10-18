@@ -15,7 +15,7 @@
  *
  */
 
-package org.liquibase.gradle
+package com.alexstasko.gradle
 
 import org.gradle.api.NamedDomainObjectContainer
 

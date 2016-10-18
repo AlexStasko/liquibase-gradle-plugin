@@ -1,4 +1,4 @@
-package org.liquibase.gradle
+package com.alexstasko.gradle
 
 import org.gradle.api.Project
 import org.gradle.testfixtures.ProjectBuilder
